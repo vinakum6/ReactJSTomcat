@@ -8,7 +8,7 @@
 
   <error-page>
     <error-code>404</error-code>
-    <location>/index.html</location>
+    <location>/index.js</location>
   </error-page>
   
 </web-app>
