@@ -24,7 +24,7 @@
                 <configuration>
                     <webResources>
                         <resource>
-                            <directory>${npm.output.directory}</directory>
+                            <directory>${basedir}</directory>
                         </resource>
                     </webResources>
                     <webXml>${basedir}/web.xml</webXml>
